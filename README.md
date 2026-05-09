@@ -187,4 +187,4 @@ And perhaps the most important question of all:
 
 *This text is a free philosophical reflection. Feedback and discussion are welcome.*
 
-*© Simon Harre — License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)*
+*© Simon Uesbeck — License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)*
